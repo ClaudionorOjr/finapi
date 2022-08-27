@@ -1,8 +1,29 @@
-## FinAPI - Financeira
+# FinAPI - Financeira
+> Projeto do Chapter I da trilha de Node.js. Conteúdo do Ignite da [Rocketseat](https://www.rocketseat.com.br/).
 
 ---
 
-### Requisitos
+## 🚀 Getting Started
+
+```
+# Clone o projeto
+git clone https://github.com/ClaudionorOjr/finapi.git
+
+# Acesse o diretório
+cd finapi
+```
+O gerenciador de pacotes utilizado é o `yarn`. É necessário que esteja instalado em sua máquina.
+```
+# Instalação das dependências
+yarn
+
+# Iniciar o projeto
+yarn dev
+```
+
+---
+
+## Requisitos
 
 - [x] Deve ser possível criar uma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
